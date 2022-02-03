@@ -1,6 +1,7 @@
 "# Roll_a_Ball" 
 This is a project for my Advanced Game Design Class where I am am learning to roll a ball in unity. You have little cubes rotating 
-around you and can pick them up to increase your score. There are currently only two levels that are both very simple.
+around you and can pick them up to increase your score. There are currently only three levels that are very simple. There are also
+a few obstacles that I made in blender.
 
 Level 1
 ![image](https://user-images.githubusercontent.com/44308078/152376326-95e56a6f-6aab-4883-a95f-87d5d6475642.png)
